@@ -1,5 +1,5 @@
 <script lang="ts">
-    const siteUrl = "https://animc.d4vrock.xyz";
+    const siteUrl = "https://animc-pfp.vercel.app";
 
     const endpoints = [
         {

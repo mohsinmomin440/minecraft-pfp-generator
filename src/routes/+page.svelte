@@ -8,7 +8,7 @@
 <SEO 
     title="AniMc - Free Minecraft Profile Picture Generator | Create Custom PFPs"
     description="Create stunning Minecraft profile pictures for free! Generate custom PFPs with gradients, effects, and your Minecraft skin. Perfect for Discord, social media, and gaming profiles."
-    url="https://animc.d4vrock.xyz"
+    url="https://animc-pfp.vercel.app"
 />
 
 <div class="hero">

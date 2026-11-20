@@ -23,7 +23,7 @@ AniMc is a web application that allows users to create custom Minecraft profile 
 
 ## Links
 
-- Website: https://ani-mc.vercel.app
+- Website: https://animc-pfp.vercel.app
 - GitHub: https://github.com/devrock07/AniMc
 
 ## Author & Credits

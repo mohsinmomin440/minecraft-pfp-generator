@@ -2,8 +2,8 @@
 
 Minecraft profile picture and pixel mascot generator with a built-in public render API.
 
-Live site: [animc.d4vrock.xyz](https://animc.d4vrock.xyz)  
-API docs: [animc.d4vrock.xyz/api](https://animc.d4vrock.xyz/api)
+Live site: [animc-pfp.vercel.app](https://animc-pfp.vercel.app)  
+API docs: [animc-pfp.vercel.app/api](https://animc-pfp.vercel.app/api)
 
 ## Overview
 
@@ -67,9 +67,9 @@ Important:
 Example requests:
 
 ```txt
-https://animc.d4vrock.xyz/api/render/devrock14.png?style=classic&background=transparent
-https://animc.d4vrock.xyz/api/render/devrock14.png?style=mascot&frame=pixel&ornament=sparkles
-https://animc.d4vrock.xyz/api/render/devrock14.gif?style=mascot&animation=idle&item=sword
+https://animc-pfp.vercel.app/api/render/devrock14.png?style=classic&background=transparent
+https://animc-pfp.vercel.app/api/render/devrock14.png?style=mascot&frame=pixel&ornament=sparkles
+https://animc-pfp.vercel.app/api/render/devrock14.gif?style=mascot&animation=idle&item=sword
 ```
 
 ## Local Development

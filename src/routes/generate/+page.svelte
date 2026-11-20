@@ -383,7 +383,7 @@
     title="Generate Minecraft PFP - Free Custom Profile Picture Maker | AniMc"
     description="Create your custom Minecraft profile picture now! Upload your skin, choose gradients, and download your unique PFP for Discord, social media, and gaming profiles. 100% free, no watermark."
     username={urlSearchParamIGN || "makima"}
-    url="https://animc.d4vrock.xyz/generate"
+    url="https://animc-pfp.vercel.app/generate"
 />
 
 <div class="generate-container">

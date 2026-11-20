@@ -2,7 +2,7 @@
     export let title = "AniMc - Free Minecraft Profile Picture Generator | Custom PFP Maker";
     export let description = "Create stunning Minecraft profile pictures for free! Generate custom PFPs with gradients, effects, and your Minecraft skin. Perfect for Discord, social media, and gaming profiles.";
     export let username = "I_Like_Cats__";
-    export let url = "https://animc.d4vrock.xyz";
+    export let url = "https://animc-pfp.vercel.app";
     const siteOrigin = new URL(url).origin;
     const imgURL = `${siteOrigin}/api/pfp/${username}.png`;
 </script>
