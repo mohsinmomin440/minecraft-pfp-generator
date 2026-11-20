@@ -2,9 +2,6 @@
 
 Minecraft profile picture and pixel mascot generator with a built-in public render API.
 
-Live site: [animc.d4vrock.xyz](https://animc.d4vrock.xyz)  
-API docs: [animc.d4vrock.xyz/api](https://animc.d4vrock.xyz/api)
-
 ## Overview
 
 AniMc started as a Minecraft PFP generator and now also supports pixel mascot renders, animated mascot GIF exports, skin uploads, cosmetic styling, and a public API that other apps can call directly.
