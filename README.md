@@ -4,7 +4,6 @@ Minecraft profile picture and pixel mascot generator with a built-in public rend
 
 Live site: [animc-pfp.vercel.app](https://animc-pfp.vercel.app)  
 API docs: [animc-pfp.vercel.app/api](https://animc-pfp.vercel.app/api)
-
 ## Overview
 
 AniMc started as a Minecraft PFP generator and now also supports pixel mascot renders, animated mascot GIF exports, skin uploads, cosmetic styling, and a public API that other apps can call directly.
