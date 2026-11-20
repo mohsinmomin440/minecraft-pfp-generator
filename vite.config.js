@@ -9,6 +9,9 @@ const config = {
             "@components": path.resolve("./src/lib/components"),
             "@scripts": path.resolve("./src/lib/scripts")
         }
+    },
+    ssr: {
+        noExternal: ['gifenc']
     }
 };
 

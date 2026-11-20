@@ -1,5 +1,5 @@
 import { Canvas, loadImage as loadCanvasImage } from "@napi-rs/canvas";
-import { GIFEncoder, applyPalette, quantize } from "gifenc/dist/gifenc.esm.js";
+import { GIFEncoder, applyPalette, quantize } from "gifenc";
 import { loadImage } from "./image";
 import { MojangError, getSkin, valid } from "./mojang";
 import { backdropDataUrl, shadingDataUrl } from "./classicAssets";

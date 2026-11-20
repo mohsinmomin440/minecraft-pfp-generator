@@ -1,4 +1,4 @@
-import { GIFEncoder, applyPalette, quantize } from "gifenc/dist/gifenc.esm.js";
+import { GIFEncoder, applyPalette, quantize } from "gifenc";
 import { loadImage, normalizeSkin } from "./utils";
 
 type AnimationMode = "none" | "idle";
